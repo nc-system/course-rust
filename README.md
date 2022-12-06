@@ -1,2 +1,2 @@
-# course-rust
-NC Course - Rust
+# Course Spring Boot
+Course NC - Spring Boot
